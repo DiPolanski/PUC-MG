@@ -3,7 +3,7 @@
 Códigos e projetos realizados durante minha graduação em Ciência da Computação (2023-2027). Cada link se refere a um repositório de uma matéria.
 
 ## 📌 1º Período (2023/1)
-- [Algoritmos e Estrutura de Dados 1]([#](https://github.com/DiPolanski/AEDSI))
+- [Algoritmos e Estrutura de Dados 1]((https://github.com/DiPolanski/AEDSI))
 
 ## 📌 2º Período (2023/2)
 - [Algoritmos e Estrutura de Dados 2](https://github.com/DiPolanski/AEDSII)
