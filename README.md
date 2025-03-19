@@ -16,5 +16,5 @@ Códigos e projetos realizados durante minha graduação em Ciência da Computa�
 
 ## 📌 4º Período (2024/2)
 - [Teoria dos Grafos e da Computabilidade](https://github.com/DiPolanski/Grafos)
-- [Inteligëncia Artificial](https://github.com/DiPolanski/IA)
-- [Laboratório de Desenvolvimetno de Dispositovos Móveis](https://github.com/DiPolanski/InfoMed-LDM)
+- [Inteligência Artificial](https://github.com/DiPolanski/IA)
+- [Laboratório de Desenvolvimento de Dispositivos Móveis](https://github.com/DiPolanski/InfoMed-LDM)
